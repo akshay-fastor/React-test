@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[8996],{38996:(e,t,a)=>{a.r(t),a.d(t,{default:()=>p});var s=a(9950),l=a(35298),n=a(66187),c=a(44414);function o(e){let{options:t,data:a,type:s}=e;return(0,c.jsx)(n.t1,{type:s,options:t,data:a})}l.t1.register(...l.$L);const p=s.memo(o)}}]);

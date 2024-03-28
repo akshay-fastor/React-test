@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[4708],{4708:(e,n,t)=>{t.r(n),t.d(n,{default:()=>o});t(9950);var l=t(73149),c=t(44414);const o=function(e){let{children:n,onConfirm:t,...o}=e;return(0,c.jsx)(l.A,{title:"Are you sure to delete this task?",onConfirm:()=>{t()},onCancel:()=>{},okText:"Yes",cancelText:"No",...o,children:n})}}}]);

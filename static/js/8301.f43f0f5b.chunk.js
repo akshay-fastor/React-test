@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[8301],{48301:(e,a,l)=>{l.r(a),l.d(a,{default:()=>c});var n=l(97937),t=l(44414);const c=function(e){let{children:a,extraClassName:l,loading:c,...s}=e;return(0,t.jsx)(n.A,{disabled:c,className:"btn btn-primary btn-gradiant ".concat(l),...s,children:a})}}}]);

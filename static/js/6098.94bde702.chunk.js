@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[6098],{26098:(e,c,a)=>{a.r(c),a.d(c,{default:()=>s});a(9950);var l=a(44414);const s=function(e){let{extraClassName:c,children:a}=e;return(0,l.jsx)(l.Fragment,{children:(0,l.jsx)("section",{className:"".concat(c),children:a})})}}}]);

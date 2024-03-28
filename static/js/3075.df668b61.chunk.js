@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[3075],{13075:(e,c,l)=>{l.r(c),l.d(c,{default:()=>t});l(9950);var n=l(718),r=l(44414);const{Sider:s}=n.A;const t=function(e){let{children:c,...l}=e;return(0,r.jsx)(s,{...l,children:c})}}}]);

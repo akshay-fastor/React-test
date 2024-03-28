@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[7901],{17901:(e,l,t)=>{t.r(l),t.d(l,{default:()=>r});t(9950);var c=t(46680),n=t(44414);const r=function(e){let{children:l,promptText:t,...r}=e;return(0,n.jsx)(c.A,{title:t,...r,children:l})}}}]);

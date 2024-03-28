@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[6473],{66473:(e,n,t)=>{t.r(n),t.d(n,{default:()=>c});t(9950);var l=t(44414);const c=function(e){let{btnText:n,...t}=e;return(0,l.jsx)(l.Fragment,{children:(0,l.jsx)("button",{className:"btn btn-lg btn-outline-primary cancelButton mr-2 ml-2 my-3",...t,children:(0,l.jsx)("span",{children:n})})})}}}]);

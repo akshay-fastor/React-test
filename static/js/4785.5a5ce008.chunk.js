@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[4785],{24785:(e,s,c)=>{c.r(s),c.d(s,{default:()=>n});var r=c(21766),t=c(9950),a=c(44414);function l(e){let{title:s,type:c}=e;return(0,a.jsxs)(a.Fragment,{children:["error"===c?r.Ay.error({message:"".concat(s)}):r.Ay.success({message:"".concat(s)}),";"]})}const n=(0,t.memo)(l)}}]);
